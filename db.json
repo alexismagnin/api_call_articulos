@@ -1,0 +1,28 @@
+{
+	"articulos": [
+		{
+			"id": 12,
+			"nombre": "Almohaditas de avena con avellana x 200 g",
+			"marca": "Granix",
+			"descripcion": "Elaborados a base de avena y trigo. Bajos en sodio",
+			"precio": 210,
+			"stock": 5
+		},
+		{
+			"id": 46,
+			"nombre": "Yerba orgánica x 500 g",
+			"marca": "Tucangúa",
+			"descripcion": "Con palo, bajo contenido de polvo, sin T.A.C.C",
+			"precio": 600,
+			"stock": 2
+		},
+		{
+			"id": 363,
+			"nombre": "Barritas Muecas, variedad a elección x 16 u",
+			"marca": "Müecas",
+			"descripcion": "Barritas a base de cereales, sabores varios. Peso 45 g",
+			"precio": 1280,
+			"stock": 2
+		}
+	]
+}
